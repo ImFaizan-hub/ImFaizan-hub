@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ImFaizan-hub
+- 👀 I’m interested in Data analysis 
+- 🌱I've recently learned Tableau and created my first dashboard
+- 💞️ I’m looking to collaborate on more tableau
+- 📫 How to reach me on Twitter @Faizani1134194
